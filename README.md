@@ -2,9 +2,9 @@
 - 👀 I’m interested in AI,BTC,Game Engine
 - 🌱 I’m currently learning Java,C++,Pytorch...<br />
 ================================================<br />
-**CNN**
-[Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275)
-**Java**
+**CNN**<br />
+[Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275)<br />
+**Java**<br />
 [Java Engineer Rodemap](https://hollischuang.github.io/toBeTopJavaer/#/menu)
 <!---
 luckyandricky/luckyandricky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
