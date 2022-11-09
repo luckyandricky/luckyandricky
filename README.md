@@ -2,6 +2,9 @@
 - 👀 I’m interested in AI,BTC,Game Engine
 - 🌱 I’m currently learning Java,C++,Pytorch...<br />
 ================================================<br />
+# ***序员备忘清单速查表*
+* [github仓库](https://github.com/tw93/Pake)<br />
+* [Website](https://wangchujiang.com/reference/index.html)<br />
 # **CNN**<br />
 * [Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275)<br />
 # **Java**<br />
