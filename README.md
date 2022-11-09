@@ -10,6 +10,9 @@
 * [CS 自学指南](https://csdiy.wiki/)<br />
 # **Linux**<br />
 * [快乐的Linux的命令行](http://billie66.github.io/TLCL/index.html)<br />
+
+# **进化计算**<br />
+* [Python中的遗传算法实现](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)<br />
 <!---
 luckyandricky/luckyandricky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
