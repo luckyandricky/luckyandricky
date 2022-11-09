@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java,C++,Pytorch...<br />
 ================================================<br />
 **CNN**<br />
-[Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275)<br />
+* [Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275)<br />
 **Java**<br />
 [Java Engineer Rodemap](https://hollischuang.github.io/toBeTopJavaer/#/menu)<br />
 **CS 自学指南**<br />
