@@ -9,6 +9,7 @@
 * [Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275)<br />
 # **Java**<br />
 * [Java Engineer Rodemap](https://hollischuang.github.io/toBeTopJavaer/#/menu)<br />
+* [Java 基础及技术栈](https://github.com/luckyandricky/Notebook/blob/main/java%E6%8A%80%E6%9C%AF%E6%A0%88/java%E5%9F%BA%E7%A1%80.md)
 # **CS 自学指南**<br />
 * [CS 自学指南](https://csdiy.wiki/)<br />
 # **Linux**<br />
