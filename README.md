@@ -2,6 +2,8 @@
 - 👀 I’m interested in AI,BTC,Game Engine
 - 🌱 I’m currently learning Java,C++,Pytorch...<br />
 ================================================<br />
+# 云GPU服务
+* [恒源云](https://gpushare.com/auth/register?user=17*****9189&fromId=1f700011c003&source=link)
 # **序员备忘清单速查表**
 * [Rust 打包网页生成很小的 Mac App](https://github.com/tw93/Pake)<br />
 * [Website](https://wangchujiang.com/reference/index.html)<br />
