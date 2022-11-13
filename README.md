@@ -21,6 +21,7 @@ ___
 ___
 ## **进化计算**<br />
 * [Python中的遗传算法实现](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)<br />
+* [进化计算框架DEAP](https://github.com/DEAP/deap)<br />
 ## **CNN**<br />
 * [Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275)<br />
 ## **LaTeX**<br />
