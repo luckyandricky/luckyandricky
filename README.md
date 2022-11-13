@@ -20,6 +20,7 @@ ___
 ## **Linux**<br />
 * [快乐的Linux的命令行](http://billie66.github.io/TLCL/index.html)<br />
 # 科研
+___
 ## **进化计算**<br />
 * [Python中的遗传算法实现](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)<br />
 <!---
