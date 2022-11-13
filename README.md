@@ -9,8 +9,6 @@ ___
 ## **序员备忘清单速查表**
 * [Rust 打包网页生成很小的 Mac App](https://github.com/tw93/Pake)<br />
 * [Website](https://wangchujiang.com/reference/index.html)<br />
-## **CNN**<br />
-* [Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275)<br />
 ## **Java**<br />
 * [面试](https://github.com/cosen1024/Java-Interview)<br />
 * [Java Engineer Rodemap](https://hollischuang.github.io/toBeTopJavaer/#/menu)<br />
@@ -23,7 +21,8 @@ ___
 ___
 ## **进化计算**<br />
 * [Python中的遗传算法实现](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)<br />
-
+## **CNN**<br />
+* [Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275)<br />
 ## **LaTeX**<br />
 * [overleaf在线编辑](https://www.overleaf.com/)
 * [Bilibili快速教程Latex+Sublime](https://www.bilibili.com/video/BV1p44y1P7P4/?spm_id_from=333.999.0.0)
