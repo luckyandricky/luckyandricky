@@ -23,6 +23,10 @@ ___
 ___
 ## **进化计算**<br />
 * [Python中的遗传算法实现](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)<br />
+
+## **LaTeX**<br />
+* [overleaf在线编辑](https://www.overleaf.com/)
+* [Bilibili快速教程Latex+Sublime](https://www.bilibili.com/video/BV1p44y1P7P4/?spm_id_from=333.999.0.0)
 <!---
 luckyandricky/luckyandricky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
