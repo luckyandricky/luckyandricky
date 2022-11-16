@@ -32,6 +32,9 @@ ___
 * [Bilibili快速教程Latex+Sublime](https://www.bilibili.com/video/BV1p44y1P7P4/?spm_id_from=333.999.0.0)<br />
 ## **可视化**<br />
 * [networkx](https://github.com/networkx/networkx)<br />
+
+## **神经网络能耗**<br />
+* [用于加速器设计的架构级能量/面积估计的基础设施](https://github.com/Accelergy-Project/accelergy)项目网站：[http ://accelergy.mit.edu](http ://accelergy.mit.edu)<br />
 <!---
 luckyandricky/luckyandricky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
