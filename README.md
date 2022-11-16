@@ -22,6 +22,7 @@ ___
 ## **进化计算**<br />
 * [Python中的遗传算法实现](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)<br />
 * [进化计算框架DEAP](https://github.com/DEAP/deap)<br />
+* [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython)是一个易于使用的开源 Python 3 库，用于构建遗传算法和优化机器学习算法。它支持 Keras 和 PyTorch。<br />
 ## **CNN**<br />
 * [Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275)<br />
 ## **LaTeX**<br />
