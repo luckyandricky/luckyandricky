@@ -34,7 +34,7 @@ ___
 * [networkx](https://github.com/networkx/networkx)<br />
 
 ## **神经网络能耗**<br />
-* [用于加速器设计的架构级能量/面积估计的基础设施](https://github.com/Accelergy-Project/accelergy)项目网站：[http ://accelergy.mit.edu](http ://accelergy.mit.edu)<br />
+* [用于加速器设计的架构级能量/面积估计的基础设施](https://github.com/Accelergy-Project/accelergy)项目网站：http ://accelergy.mit.edu<br />
 <!---
 luckyandricky/luckyandricky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
