@@ -27,7 +27,7 @@ ___
 ## **LaTeX**<br />
 * [overleaf在线编辑](https://www.overleaf.com/)<br />
 * [Bilibili快速教程Latex+Sublime](https://www.bilibili.com/video/BV1p44y1P7P4/?spm_id_from=333.999.0.0)<br />
-##**可视化**<br />
+## **可视化**<br />
 * [networkx](https://github.com/networkx/networkx)<br />
 <!---
 luckyandricky/luckyandricky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
