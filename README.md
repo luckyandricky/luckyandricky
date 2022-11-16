@@ -24,7 +24,7 @@ ___
 * [进化计算框架DEAP](https://github.com/DEAP/deap)<br />
 * [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython)是一个易于使用的开源 Python 3 库，用于构建遗传算法和优化机器学习算法。它支持 Keras 和 PyTorch。<br />
 * [使用带有 PyGAD 的遗传算法训练 PyTorch 模型](https://neptune.ai/blog/train-pytorch-models-using-genetic-algorithm-with-pygad)<br />
-** [cgp-cnn](https://github.com/sg-nm/cgp-cnn-PyTorch) A Genetic Programming Approach to Designing CNN Architectures, In GECCO 2017 (oral presentation, Best Paper Award)<br />
+* [cgp-cnn](https://github.com/sg-nm/cgp-cnn-PyTorch) A Genetic Programming Approach to Designing CNN Architectures, In GECCO 2017 (oral presentation, Best Paper Award)<br />
 
 ## **CNN**<br />
 * [Derivation of Convolutional Neural Network from Fully Connected Network Step-By-Step](https://towardsdatascience.com/derivation-of-convolutional-neural-network-from-fully-connected-network-step-by-step-b42ebafa5275)<br />
