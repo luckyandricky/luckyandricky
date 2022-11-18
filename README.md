@@ -12,7 +12,8 @@ ___
 ## **Java**<br />
 * [面试](https://github.com/cosen1024/Java-Interview)<br />
 * [Java Engineer Rodemap](https://hollischuang.github.io/toBeTopJavaer/#/menu)<br />
-* [Java 基础及技术栈](https://github.com/luckyandricky/Notebook/blob/main/java%E6%8A%80%E6%9C%AF%E6%A0%88/java%E5%9F%BA%E7%A1%80.md)
+* [Java 基础及技术栈](https://github.com/luckyandricky/Notebook/blob/main/java%E6%8A%80%E6%9C%AF%E6%A0%88/java%E5%9F%BA%E7%A1%80.md)<br />
+* [Java Guide](https://github.com/Snailclimb/JavaGuide)<br />
 ## **CS 自学指南**<br />
 * [CS 自学指南](https://csdiy.wiki/)<br />
 ## **Linux**<br />
