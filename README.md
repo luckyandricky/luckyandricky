@@ -27,6 +27,9 @@ ___
 ## **容器技术**<br />
 * [Docker](https://wangchujiang.com/reference/docs/docker.html#%E4%B8%80%E8%88%AC%E5%91%BD%E4%BB%A4)<br />
 * [Docker教程](https://vuepress.mirror.docker-practice.com/)<br />
+## **编译器基础架构**<br />
+* [LLVM](https://github.com/llvm/llvm-project)<br />
+* [MLIR](https://mlir.llvm.org/getting_started/TestingGuide/#command-line-incantations)<br />
 # 科研
 ___
 ## **进化计算**<br />
