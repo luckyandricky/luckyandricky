@@ -16,7 +16,7 @@ ___
 * [Java 基础及技术栈](https://github.com/luckyandricky/Notebook/blob/main/java%E6%8A%80%E6%9C%AF%E6%A0%88/java%E5%9F%BA%E7%A1%80.md)<br />
 * [Java Guide](https://github.com/Snailclimb/JavaGuide)<br />
 * [反向面试](https://github.com/yifeikong/reverse-interview-zh)<br />
-* [Mybatis](https://mybatis.org/mybatis-3/)<br />
+* [Mybatis](https://mybatis.org/mybatis-3/) 持久层框架<br />
 ## **CS 自学指南**<br />
 * [CS 自学指南](https://csdiy.wiki/)<br />
 * [Coding interview University ](https://github.com/jwasham/coding-interview-university)<br />
