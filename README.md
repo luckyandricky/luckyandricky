@@ -50,6 +50,9 @@ ___
 ## **神经网络能耗**<br />
 * [用于加速器设计的架构级能量/面积估计的基础设施](https://github.com/Accelergy-Project/accelergy)项目网站：http ://accelergy.mit.edu<br />
 * [Eyeriss](https://eyeriss.mit.edu/) 适用于深度卷积神经网络的节能型可重构加速器<br />
+## **English Writing**<br />
+* [火龙果写作](https://web.mypitaya.com/)<br />
+* [grammarly](https://app.grammarly.com/)<br />
 <!---
 luckyandricky/luckyandricky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
