@@ -59,7 +59,9 @@ ___
 ## **宏观分析**<br />
 * [主要宏观分析工具 — — Tradingview](https://www.tradingview.com/)<br />
 * [预测美国CPI和PCE的网站— — Clevelandfed.org](https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting)<br />
-* 
+* [预测美国下一次加息数据 — — Cmegroup.com](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?redirect=/trading/interest-rates/countdown-to-fomc.html)<br />
+* [查询线上wBTC和ETH清算工具 — — Parsec.finance](https://parsec.finance/)<br />
+* [查询当月BTC和ETH期权交割 — —Deribit.com](https://metrics.deribit.com/options/BTC)<br />
 <!---
 luckyandricky/luckyandricky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
