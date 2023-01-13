@@ -6,6 +6,7 @@
 ___
 ## 云GPU服务
 * [恒源云](https://gpushare.com/auth/register?user=17*****9189&fromId=1f700011c003&source=link)<br />
+## HomeLab家庭网络实验室
 ## 极简项目管理
 * [极简主义团队管理操作手册](https://github.com/lazyparser/minimalist-team-leader) --中科院软件所出品<br />
 ## **序员备忘清单速查表**
