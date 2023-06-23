@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luckyandricky
-- 👀 I’m interested in AI,BTC,Game Engine
+- 👀 I’m interested in System Development,AI,BTC,Game Engine
 - 🌱 I’m currently learning Java,C++,Pytorch...<br />
 ================================================<br />
 # 工程
