@@ -21,6 +21,11 @@ ___
 * [反向面试](https://github.com/yifeikong/reverse-interview-zh)<br />
 * [Mybatis](https://mybatis.org/mybatis-3/) 持久层框架<br />
 * [Spring](https://spring.io/projects/spring-boot) <br />
+## **前端**<br />
+* [Vue3备忘清单](https://wangchujiang.com/reference/docs/vue.html)<br />
+* [Vue2备忘清单](https://wangchujiang.com/reference/docs/vue2.html)<br />
+## **微服务与分布式**<br/>
+
 ## **CS 自学指南**<br />
 * [CS 自学指南](https://csdiy.wiki/)<br />
 * [Coding interview University ](https://github.com/jwasham/coding-interview-university)<br />
