@@ -49,6 +49,7 @@ ___
 # 科研
 ___
 ## **进化计算**<br />
+* [大规模演化计算进行分布式GPU加速的框架](https://evox.readthedocs.io/zh/latest/index.html)<br />
 * [Python中的遗传算法实现](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)<br />
 * [进化计算框架DEAP](https://github.com/DEAP/deap)<br />
 * [PyGAD](https://github.com/ahmedfgad/GeneticAlgorithmPython)是一个易于使用的开源 Python 3 库，用于构建遗传算法和优化机器学习算法。它支持 Keras 和 PyTorch。<br />
