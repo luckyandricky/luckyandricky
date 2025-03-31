@@ -6,6 +6,8 @@
 ___
 ## 云GPU服务
 * [恒源云](https://gpushare.com/auth/register?user=17*****9189&fromId=1f700011c003&source=link)<br />
+## Crypto量化
+* [基于OKX API的量化交易](https://github.com/luckyandricky/OKX-quant)<br />
 ## HomeLab家庭网络实验室
 ## 极简项目管理
 * [极简主义团队管理操作手册](https://github.com/lazyparser/minimalist-team-leader) --中科院软件所出品<br />
