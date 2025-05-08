@@ -50,6 +50,7 @@ ___
 * [Python密码学工具包pycryptodome](https://github.com/Legrandin/pycryptodome)<br />
 # 科研
 ___
+## **LLM & Agent**<br />
 ## **进化计算**<br />
 * [大规模演化计算进行分布式GPU加速的框架](https://evox.readthedocs.io/zh/latest/index.html)<br />
 * [Python中的遗传算法实现](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)<br />
