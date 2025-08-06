@@ -11,6 +11,7 @@ ___
 * [硅基流动-国内大模型API提供商](https://siliconflow.cn/)<br/>
 * [Prompt优化工具-阿里千锤百炼](https://bailian.console.aliyun.com/)<br/>
 * [进化算法优化大模型-Nature-Inspired Population-Based Evolution of Large Language Models](https://github.com/ZhangYiqun018/GENOME)<br/>
+* [Optimizing generative AI by backpropagating language model feedback (Nature发表)]()<br/>
 ## **进化计算**<br />
 * [大规模演化计算进行分布式GPU加速的框架](https://evox.readthedocs.io/zh/latest/index.html)<br />
 * [Python中的遗传算法实现](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)<br />
