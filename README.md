@@ -4,6 +4,7 @@
 # 科研
 ___
 ## **LLM & Agent**<br />
+* [Kosmos 用于自主发现的人工智能科学家](https://edisonscientific.com/articles/announcing-kosmos)<br/>
 * [Agentic工作流优化](https://github.com/FoundationAgents/AFlow)<br/>
 * [通过文本的反向传播TextGrad](https://github.com/zou-group/textgrad)<br/>
 * [动手从头训练大模型mini版](https://jingyaogong.github.io/minimind/)<br/>
