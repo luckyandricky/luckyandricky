@@ -6,7 +6,6 @@ ___
 ## **LLM & Agent**<br />
 * [Nested Learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)<br/>
 * [Titans: Learning to Memorize at Test Time](https://github.com/lucidrains/titans-pytorch?tab=readme-ov-file)<br/>
-* [Kosmos 用于自主发现的人工智能科学家](https://edisonscientific.com/articles/announcing-kosmos)<br/>
 * [Agentic工作流优化](https://github.com/FoundationAgents/AFlow)<br/>
 * [通过文本的反向传播TextGrad](https://github.com/zou-group/textgrad)<br/>
 * [动手从头训练大模型mini版](https://jingyaogong.github.io/minimind/)<br/>
@@ -15,6 +14,11 @@ ___
 * [Prompt优化工具-阿里千锤百炼](https://bailian.console.aliyun.com/)<br/>
 * [进化算法优化大模型-Nature-Inspired Population-Based Evolution of Large Language Models](https://github.com/ZhangYiqun018/GENOME)<br/>
 * [Optimizing generative AI by backpropagating language model feedback (Nature发表)]()<br/>
+
+## **AI科学家**<br />
+* [西湖大学 DeepScientist: Advancing Frontier-Pushing Scientific Findings Progressively](https://github.com/ResearAI/DeepScientist)<br/>
+* [Kosmos 用于自主发现的人工智能科学家](https://edisonscientific.com/articles/announcing-kosmos)<br/>
+* [ResearchAgent DeepScientist 仅用两周时间就取得了相当于人类三年累计研究成果的显著进展](https://github.com/ResearAI/DeepScientist)<br/>
 ## **进化计算**<br />
 * [大规模演化计算进行分布式GPU加速的框架](https://evox.readthedocs.io/zh/latest/index.html)<br />
 * [Python中的遗传算法实现](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)<br />
