@@ -4,6 +4,8 @@
 # 科研
 ___
 ## **LLM & Agent**<br />
+* [Nested Learning](https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/)<br/>
+* [Titans: Learning to Memorize at Test Time](https://github.com/lucidrains/titans-pytorch?tab=readme-ov-file)<br/>
 * [Kosmos 用于自主发现的人工智能科学家](https://edisonscientific.com/articles/announcing-kosmos)<br/>
 * [Agentic工作流优化](https://github.com/FoundationAgents/AFlow)<br/>
 * [通过文本的反向传播TextGrad](https://github.com/zou-group/textgrad)<br/>
